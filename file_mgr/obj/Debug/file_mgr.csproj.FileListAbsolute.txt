@@ -1,0 +1,14 @@
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\bin\Debug\file_mgr.exe.config
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\obj\Debug\file_mgr.csprojResolveAssemblyReference.cache
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\obj\Debug\MainWindow.g.cs
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\obj\Debug\App.g.cs
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\obj\Debug\file_mgr_MarkupCompile.cache
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\obj\Debug\file_mgr_MarkupCompile.lref
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\bin\Debug\file_mgr.exe
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\bin\Debug\file_mgr.pdb
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\obj\Debug\MainWindow.baml
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\obj\Debug\file_mgr.g.resources
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\obj\Debug\file_mgr.Properties.Resources.resources
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\obj\Debug\file_mgr.csproj.GenerateResource.Cache
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\obj\Debug\file_mgr.exe
+c:\users\ashwin\documents\visual studio 2015\Projects\file_mgr\file_mgr\obj\Debug\file_mgr.pdb
